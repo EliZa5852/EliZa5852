@@ -32,11 +32,10 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   50 mins             ████████████████████████░   97.58 % 
-Vue.js                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -52,5 +51,5 @@ TypeScript               3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 04/03/2024 01:12:17 UTC
+ Last Updated on 05/03/2024 01:11:06 UTC
 <!--END_SECTION:waka-->
