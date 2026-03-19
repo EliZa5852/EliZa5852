@@ -32,11 +32,10 @@ Sunday                   396 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-HTML                     17 mins             █████████████░░░░░░░░░░░░   51.01 % 
-Python                   16 mins             ████████████░░░░░░░░░░░░░   48.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -52,5 +51,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2026 02:46:42 UTC
+ Last Updated on 19/03/2026 02:48:41 UTC
 <!--END_SECTION:waka-->
