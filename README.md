@@ -32,12 +32,10 @@ Sunday                   397 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 51 mins             ████████████░░░░░░░░░░░░░   47.55 % 
-Python                   39 mins             █████████░░░░░░░░░░░░░░░░   35.85 % 
-Text                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 49 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -53,5 +51,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 03:20:21 UTC
+ Last Updated on 25/07/2026 03:19:19 UTC
 <!--END_SECTION:waka-->
