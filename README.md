@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2015%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -38,6 +40,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -51,5 +59,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:41:03 UTC
+ Last Updated on 28/07/2026 02:57:13 UTC
 <!--END_SECTION:waka-->
